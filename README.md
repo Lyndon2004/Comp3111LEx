@@ -14,4 +14,4 @@ This project is part of Lab 1 for COMP3111. It demonstrates the basic usage of M
 - `pom.xml`: Maven configuration file with JUnit 5 dependency.
 
 ## Screenshot of Git History
-*(Screenshot will be added here after completing 3 commits)*
+![Git History Screenshot](screenshot.png)
