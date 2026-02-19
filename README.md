@@ -1,8 +1,8 @@
 # Comp3111 Lab 1 - Git & GitHub Exercise
 
 ## Project Information
-- **Name**: [你的名字]
-- **Student ID**: [你的学号]
+- **Name**: LIN Yuquan
+- **Student ID**: 21251420
 - **Course**: COMP3111 Software Engineering
 
 ## Lab Description
